@@ -11,7 +11,7 @@ Axel, 17. Developer, Innovator, Lucki Enthusiast. I Design, Develop, and Publish
 Joined Github 1 (ish) years ago. Since then I pushed 700+ commits.
 
 ### Talking about Personal Stuffs:
-
+- 🚀 &nbsp; I’m currently working at [PraxyLabs](https://praxylabs.com)
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, NextJS, <br /> MongoDB, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/eckstasyy).
