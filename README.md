@@ -21,9 +21,9 @@ Joined Github 1 (ish) years ago. Since then I pushed 700+ commits.
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; Racing.
-- 📰 &nbsp; Caffiene.
-- 🍕 &nbsp; Lucki.
+- Racing.
+- Caffiene.
+- Lucki.
 
 ### Languages and Tools:
 
