@@ -16,7 +16,6 @@ Joined Github 1 (ish) years ago. Since then I pushed 700+ commits.
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, NextJS, <br /> Graphql, MongoDB, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/eckstasyy).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 📫 &nbsp; How to reach me: axel@praxylabs.com
 
 ### My Absolute Favorites:
