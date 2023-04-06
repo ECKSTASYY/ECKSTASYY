@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://eckstasy.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/eckstasyyy)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here!
 
 Axel, 17. Developer, Innovator, Lucki Enthusiast. I Design, Develop, and Publish Software For Web, Mobile, And Desktop Applications. In My Free time I Help Other With Their Projects, Talk Startups, Investment Strategy's, Development And More. I Also Work On Cars and My Current Project is an LS Swapped E30.
 
