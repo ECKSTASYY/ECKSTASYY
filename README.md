@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Axel ECK$!](https://github.com/iampavangandhi/)
+## Hey 👋, I'm [Axel ECK$!](https://github.com/eckstasyy/)
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://eckstasy.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/eckstasyyy)
