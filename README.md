@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-Axel, 17. Developer, Innovator, Lucki Enthusiast. I Design, Develop, and Publish Software For Web, Mobile, And Desktop Applications. In My Free time I Help Other With Their Projects, Talk Startups, Investment Strategy's, Development And More. I Also Work On Cars and My Current Project is an LS Swapped E30. From Here Foward, Click the Man Below For the Next Page :).
+Axel, 17. Developer, Innovator, Lucki Enthusiast. I Design, Develop, and Publish Software For Web, Mobile, And Desktop Applications. In My Free time I Help Other With Their Projects, Talk Startups, Investment Strategy's, Development And More. I Also Work On Cars and My Current Project is an LS Swapped E30.
 
 
 Joined Github 1 (ish) years ago. Since then I pushed 700+ commits.
