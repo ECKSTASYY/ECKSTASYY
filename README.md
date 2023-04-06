@@ -6,7 +6,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I'm a graduate in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+Axel, 17. Developer, Innovator, Lucki Enthusiast. I Design, Develop, and Publish Software For Web, Mobile, And Desktop Applications. In My Free time I Help Other With Their Projects, Talk Startups, Investment Strategy's, Development And More. I Also Work On Cars and My Current Project is an LS Swapped E30. From Here Foward, Click the Man Below For the Next Page :).
+
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
