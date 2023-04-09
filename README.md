@@ -12,7 +12,7 @@ Joined Github 1 (ish) years ago. Since then I pushed 700+ commits.
 
 ### Talking about Personal Stuffs:
 - 🚀 &nbsp; I’m currently working at [PraxyLabs](https://praxylabs.com)
-- 🛠 &nbsp; I work with NodeJS, Express, React, NextJS, MongoDB, Supabase, Javascript, etc.
+- 🛠 &nbsp; I work with NodeJS, Express, React, NextJS, MongoDB, Supabase, Javascript, Typescript, Python, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/eckstasyy).
 - 📫 &nbsp; How to reach me: axel@praxylabs.com
