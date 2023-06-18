@@ -8,7 +8,7 @@
 Axel, 17. Developer, Innovator, Lucki Enthusiast. I Design, Develop, and Publish Software For Web, Mobile, And Desktop Applications. In My Free time I Help Other With Their Projects, Talk Startups, Investment Strategy's, Development And More. I Also Work On Cars and My Current Project is an LS Swapped E30.
 
 
-Joined Github 1 (ish) years ago. Since then I pushed 700+ commits.
+Joined Github 1 (ish) years ago. Since then I pushed 1000+ commits.
 
 ### Talking about Personal Stuffs:
 - 🚀 &nbsp; I’m currently working at [PraxyLabs](https://praxylabs.com)
