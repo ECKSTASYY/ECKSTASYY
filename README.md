@@ -7,6 +7,3 @@
 Axel, 18. Developer, Innovator, Lucki Enthusiast.
 
 Joined Github 3 (ish) years ago. Since then I pushed 1700+ commits (2 accounts)
-
-### Talking about Personal Stuffs:
-- 🚀 &nbsp; I’m currently working at [Rentbamboo](https://rentbamboo.com)
